@@ -11,7 +11,7 @@
     "typescript": "latest"
   },
   "scripts": {
-    "build": "ts2gs"
+    "start": "ts2gs"
   },
   "author": "",
   "license": "ISC",
