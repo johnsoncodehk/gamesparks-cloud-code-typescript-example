@@ -3,7 +3,7 @@
 npm install
 ```
 
-## Test
+## Build
 ```bash
 npm run start
 ```
