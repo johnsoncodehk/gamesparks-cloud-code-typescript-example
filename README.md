@@ -3,7 +3,7 @@
 npm install
 ```
 
-## Build
+## Build Cloud Code
 ```bash
 npm run start
 ```
