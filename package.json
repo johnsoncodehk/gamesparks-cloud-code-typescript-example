@@ -1,8 +1,5 @@
 {
   "name": "gamesparks-cloud-code-typescript-example",
-  "version": "1.0.0",
-  "description": "",
-  "main": "",
   "devDependencies": {
     "@types/gamesparks-cloud-code-api": "git+https://github.com/johnsoncodehk/gamesparks-cloud-code-api-typings.git",
     "@types/gamesparks-request-api": "git+https://github.com/johnsoncodehk/gamesparks-request-api-typings.git",
@@ -12,8 +9,5 @@
   },
   "scripts": {
     "start": "ts2gs"
-  },
-  "author": "",
-  "license": "ISC",
-  "dependencies": {}
+  }
 }

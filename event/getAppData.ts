@@ -1,6 +1,4 @@
-import * as Main from "main";
-import * as Propertie from "propertie";
+import * as Properties from "properties";
 
-Main.setResult({
-	appData: Propertie.getAppData(),
-});
+Spark.setScriptData("serverTime", Date.now());
+Spark.setScriptData("appData", Properties.getAppData());
