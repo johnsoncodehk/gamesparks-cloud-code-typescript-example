@@ -2,6 +2,7 @@
   "name": "gamesparks-cloud-code-typescript-example",
   "devDependencies": {
     "@types/gamesparks-cloud-code-api": "git+https://github.com/johnsoncodehk/gamesparks-cloud-code-api-typings.git",
+    "@types/gamesparks-realtime-api": "git+https://github.com/johnsoncodehk/gamesparks-realtime-api-typings.git",
     "@types/gamesparks-request-api": "git+https://github.com/johnsoncodehk/gamesparks-request-api-typings.git",
     "@types/node": "latest",
     "ts2gamesparks": "git+https://github.com/johnsoncodehk/ts2gamesparks.git",
