@@ -9,6 +9,6 @@
     "typescript": "latest"
   },
   "scripts": {
-    "start": "ts2gs"
+    "start": "cd src && ts2gs"
   }
 }
