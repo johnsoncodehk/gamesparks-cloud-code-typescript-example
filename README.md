@@ -1,9 +1,9 @@
-## Install
+### Install
 ```bash
 npm install
 ```
 
-## Build Cloud Code
+### Build Cloud Code
 ```bash
-npm run start
+npm run build
 ```
