@@ -1,4 +1,3 @@
-"use strict";
-require("properties");
+requireOnce("properties");
 Spark.setScriptData("serverTime", Date.now());
-Spark.setScriptData("appData", module_properties.getAppData());
+Spark.setScriptData("appData", modules__properties.getAppData());
