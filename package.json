@@ -1,9 +1,9 @@
 {
   "name": "gamesparks-cloud-code-typescript-example",
   "devDependencies": {
-    "@types/gamesparks": "git+https://github.com/johnsoncodehk/gamesparks-typings.git",
+    "gamesparks-typings": "latest",
     "@types/node": "latest",
-    "ts2gamesparks": "git+https://github.com/johnsoncodehk/ts2gamesparks.git",
+    "ts2gamesparks": "latest",
     "typescript": "latest"
   },
   "scripts": {
